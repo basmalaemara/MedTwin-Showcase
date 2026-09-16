@@ -84,9 +84,13 @@ def deliver(agent_output, patient):
 
 ## 👩‍💻 My role
 
-- Led a team of three from design to deployment
-- Designed the multi-agent consultation flow and the clinical safety validator
-- Built backend APIs, evaluation scripts, and Docker/CI setup
+**Team Lead · Digital Twin, IoT & Security/Admin Developer**
+
+- Built the **digital-twin simulation engine** and its **prediction agents** (Diabetes, COPD, Heart Failure)
+- Built **IoT device integration** for wearable / remote-monitoring data
+- Built the **security layer** (authentication, clinical validation) and the **admin/audit module** across backend, web, and mobile, and tested these parts
+- Built the backend services for reports, profiles, scheduling/availability, and clinical events
+- Co-set up the **Docker / CI infrastructure** and the **clinical data-validation suite**, and contributed to the shared database layer
 
 ---
 
